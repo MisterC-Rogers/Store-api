@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Works On My Machine",
+    "price": 25,
+    "category": ["shirts"],
+    "rating": 4,
+    "description": "Programmer quips"
+  },
+  {
+    "name": "Shadow Box",
+    "price": 109,
+    "category": ["home decor"],
+    "rating": 5,
+    "description": "Custom message shadow box",
+    "dimensions": "30x30"
+  },
+  {
+    "name": "Kill It Today Kick Ass Tomorrow",
+    "price": 80,
+    "category": ["sweatsuits", "hoodies", "shirts"],
+    "rating": 4.9,
+    "description": "Branded active-ware with a strong message about fitness"
+  }
+]
